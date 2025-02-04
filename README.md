@@ -9,9 +9,13 @@ QA-инженер с опытом 1.5 года, увлеченный задач�
 
 ### Языки и инструменты:
 
-<img align="left" alt="React" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg">
-<img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="left" alt="JS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="left" alt="VSC" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img align="left" alt="gradle" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-original.svg">
+<img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+<img align="left" alt="junit" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg">
+<img align="left" alt="jira" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg">
+<img align="left" alt="confluence" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original.svg">
+<img align="left" alt="git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img align="left" alt="jenkins" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg">
+<img align="left" alt="json" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">
+<img align="left" alt="selenium" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg">
 
